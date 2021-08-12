@@ -24,9 +24,9 @@ adquiridos no curso.
 ## Repositório
 Este repositório contém os notebooks usados na disciplina. 
 
-> Parte 1 - Introdução a Python
-> Parte 2 - Integração Numérica de Equações Diferenciais Ordinárias
-> Parte 3 - Integração Numérica de Equações Diferenciais Parciais
+* Parte 1 - Introdução a Python
+* Parte 2 - Integração Numérica de Equações Diferenciais Ordinárias
+* Parte 3 - Integração Numérica de Equações Diferenciais Parciais
 
 
 
