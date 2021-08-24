@@ -27,7 +27,11 @@ adquiridos no curso.
 ## Repositório
 Este repositório contém os notebooks usados na disciplina. 
 
-* Parte 1 - Introdução a Python
+* Parte 1 - Introdução a Python:
+[Introdução a Python (variáveis e estruturas de dados)] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPython.ipynb)
+[Introdução a Funções no Python] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPythonFunctions.ipynb)
+[Introdução a gráficos no Python] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroGraficosPython.ipynb)
+[Introdução a Programação Orientada Objeto] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPythonOOP.ipynb)
 * Parte 2 - Integração Numérica de Equações Diferenciais Ordinárias
 * Parte 3 - Integração Numérica de Equações Diferenciais Parciais
 
