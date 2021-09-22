@@ -33,11 +33,29 @@ adquiridos no curso.
 Este repositório contém os notebooks usados na disciplina. 
 
 * Parte 1 - Introdução a Python:
-[Introdução a Python (variáveis e estruturas de dados)] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPython.ipynb)
-[Introdução a Funções no Python] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPythonFunctions.ipynb)
-[Introdução a gráficos no Python] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroGraficosPython.ipynb)
-[Introdução a Programação Orientada Objeto] (https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPythonOOP.ipynb)
+
+[Introdução a Python (variáveis e estruturas de dados)](https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPython.ipynb)
+
+[Introdução a Funções no Python](https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPythonFunctions.ipynb)
+
+[Introdução a gráficos no Python](https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroGraficosPython.ipynb)
+
+[Introdução a Programação Orientada Objeto](https://github.com/aschelin/SimulacoesAGFE/blob/main/IntroPythonOOP.ipynb)
+
 * Parte 2 - Integração Numérica de Equações Diferenciais Ordinárias
+
+[Método de Euler](https://github.com/aschelin/SimulacoesAGFE/blob/main/SC_Metodo_Euler.ipynb)
+
+[Método de Euler Melhorado](https://github.com/aschelin/SimulacoesAGFE/blob/main/SC_Euler_Melhorado.ipynb)
+
+[EDOs de Ordem Superior](https://github.com/aschelin/SimulacoesAGFE/blob/main/SC_EDOs_OrdemSuperior.ipynb)
+
+[Sistemas de EDOS](https://github.com/aschelin/SimulacoesAGFE/blob/main/SC_EDO_sistemasequacoes.ipynb)
+
+[A família RK e problemas físicos](https://github.com/aschelin/SimulacoesAGFE/blob/main/RK.ipynb)
+
+[Integrando EDOs com o Scipy](https://github.com/aschelin/SimulacoesAGFE/blob/main/SC_integrador_scipy.ipynb)
+
 * Parte 3 - Integração Numérica de Equações Diferenciais Parciais
 
 
