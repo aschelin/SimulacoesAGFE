@@ -58,5 +58,8 @@ Este repositório contém os notebooks usados na disciplina.
 
 * Parte 3 - Integração Numérica de Equações Diferenciais Parciais
 
+[Equação de Convecção 1D](https://github.com/aschelin/SimulacoesAGFE/blob/main/Aula_de_SC_EDPparte01.ipynb) 
+
+
 
 
