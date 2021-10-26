@@ -70,6 +70,8 @@ Este repositório contém os notebooks usados na disciplina.
 
 [Equação de Poisson 2D](https://github.com/aschelin/SimulacoesAGFE/blob/main/EquacaodePoisson2D.ipynb)
 
+[Fluxo em uma Cavidade 2D](https://github.com/aschelin/SimulacoesAGFE/blob/main/Fluxo_Cavidade2D_NavierStokes.ipynb)
+
 
 
 
