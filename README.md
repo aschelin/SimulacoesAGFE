@@ -58,7 +58,17 @@ Este repositório contém os notebooks usados na disciplina.
 
 * Parte 3 - Integração Numérica de Equações Diferenciais Parciais
 
-[Equação de Convecção 1D](https://github.com/aschelin/SimulacoesAGFE/blob/main/Aula_de_SC_EDPparte01.ipynb) 
+[Equação de Convecção 1D](https://github.com/aschelin/SimulacoesAGFE/blob/main/Aula_de_SC_EDPparte01.ipynb)
+
+[Equação de Burguer 1D](https://github.com/aschelin/SimulacoesAGFE/blob/main/Aula_de_SC_EDPparte02.ipynb)
+
+[Equações em mais Dimensões](https://github.com/aschelin/SimulacoesAGFE/blob/main/Aula_de_SC_EDPs2Ds_parte03.ipynb)
+
+[Equação de Burguer em 2D](https://github.com/aschelin/SimulacoesAGFE/blob/main/EquacaodeBurguer2D.ipynb)
+
+[Equação de Laplace 2D](https://github.com/aschelin/SimulacoesAGFE/blob/main/EquacaodeLaplace2D.ipynb)
+
+[Equação de Poisson 2D](https://github.com/aschelin/SimulacoesAGFE/blob/main/EquacaodePoisson2D.ipynb)
 
 
 
